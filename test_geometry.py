@@ -8,4 +8,4 @@ class GeometryTests(unittest.TestCase):
         self.assertEqual(area_rectangle(3, 4), 12)
 
     def test_perimeter_rectangle(self):
-        self.assertEqual(perimeter_rectangle(3, 4), 12)
+        self.assertEqual(perimeter_rectangle(3, 4), 14)
