@@ -1,6 +1,6 @@
 def area_rectangle(width: float, height: float) -> float:
     """Area of a width x height rectangle."""
-    return width + height
+    return width * height
 
 
 def perimeter_rectangle(width: float, height: float) -> float:
